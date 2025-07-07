@@ -1,1 +1,1 @@
-# staxtech-p-2
+calculator usnig html css and javascript
